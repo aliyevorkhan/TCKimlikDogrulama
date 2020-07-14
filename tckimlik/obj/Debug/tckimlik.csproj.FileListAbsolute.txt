@@ -1,0 +1,10 @@
+C:\Users\Orkhan ALIYEV\Desktop\tckimlik\tckimlik\obj\Debug\tckimlik.csprojAssemblyReference.cache
+C:\Users\Orkhan ALIYEV\Desktop\tckimlik\tckimlik\obj\Debug\tckimlik.Form1.resources
+C:\Users\Orkhan ALIYEV\Desktop\tckimlik\tckimlik\obj\Debug\tckimlik.Properties.Resources.resources
+C:\Users\Orkhan ALIYEV\Desktop\tckimlik\tckimlik\obj\Debug\tckimlik.csproj.GenerateResource.cache
+C:\Users\Orkhan ALIYEV\Desktop\tckimlik\tckimlik\obj\Debug\tckimlik.csproj.CoreCompileInputs.cache
+C:\Users\Orkhan ALIYEV\Desktop\tckimlik\tckimlik\bin\Debug\tckimlik.exe.config
+C:\Users\Orkhan ALIYEV\Desktop\tckimlik\tckimlik\bin\Debug\tckimlik.exe
+C:\Users\Orkhan ALIYEV\Desktop\tckimlik\tckimlik\bin\Debug\tckimlik.pdb
+C:\Users\Orkhan ALIYEV\Desktop\tckimlik\tckimlik\obj\Debug\tckimlik.exe
+C:\Users\Orkhan ALIYEV\Desktop\tckimlik\tckimlik\obj\Debug\tckimlik.pdb
